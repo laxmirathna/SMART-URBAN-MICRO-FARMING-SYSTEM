@@ -105,8 +105,7 @@ smart-urban-micro-farming-system/
 ├── Images/
 ├── Simulation/
 ├── Presentation/
-├── Documents/
-└── Videos/
+
 
 
 
